@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-phone-hint",
-  "version": "0.0.1",
+  "name": "@ak3696/capacitor-phone-hint",
+  "version": "7.0.2",
   "description": "Uses phone number hint API to get sim numbers",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -76,8 +76,5 @@
     "android": {
       "src": "android"
     }
-  },
-  "dependencies": {
-    "capacitor-phone-hint": "^7.0.0"
   }
 }
