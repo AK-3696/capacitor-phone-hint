@@ -1,11 +1,11 @@
 # capacitor-phone-hint
 
-Uses phone number hint API to get sim numbers
+Uses phone number hint API in ionic-capacitor apps to get sim numbers
 
 ## Install
 
 ```bash
-npm install capacitor-phone-hint
+npm install @ak3696/capacitor-phone-hint
 npx cap sync
 ```
 
